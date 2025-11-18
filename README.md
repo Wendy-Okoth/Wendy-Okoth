@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wendy Okoth
+# 👋 Hii, I'm Wendy Okoth
 About Me: <br><br>I'm a Full Stack developer passionate about technology and innovation.<br><br>🔥 Interests<br><br>⛓️ Blockchain & Decentralized Apps<br><br>🕶️ Virtual Reality & the Metaverse<br><br>🌐 Web3 Applications – I'm always open to collaborate and learn more<br><br>📂 My Work <br>All of my tech progress and projects are available here 👉 GitHub Portfolio<br><br>🤝Collaborations<br>I'm currently working on aproject called BiteRight🍽️ which is suppose to help people track the callorie intake <br><br>📬 Contact Me<br>📧 Email: wendyaokoth@gmail.com<br><br>✨ Fun Fact<br><br>💡I believe passion for tech grows stronger the more challenges you face.
 
 
